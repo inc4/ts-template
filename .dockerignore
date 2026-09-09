@@ -1,0 +1,10 @@
+# Not used by the image build; keeps edits here from invalidating COPY.
+.claude
+.dockerignore
+.git
+.github
+.gitignore
+*.md
+Dockerfile
+docs
+eslint.config.ts
